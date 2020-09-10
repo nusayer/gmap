@@ -11,7 +11,7 @@
 
 1) With geolocator, get the current location of the user
 2) Show the current location with marker
-3) On tap of the marker, modal bottom sheet appears with two input fields,coordinates and name. Initial value of coordinates is set as current coordinates.
+3) On tap of the marker, modal bottom sheet appears with two input fields,coordinates and name. Initial value of coordinates is set as current coordinates and it is fixed (controlled input).
 4) Current coordinates and input name shown in the cosole.
 
 #        Demo
