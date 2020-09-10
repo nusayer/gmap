@@ -112,6 +112,7 @@ class _MyAppState extends State<MyApp> {
                                   onSaved: (input) => name = input,
                                 ),
                                 TextFormField(
+                                  enabled: false,
                                   initialValue: "Latitude: " +
                                       position.latitude.toString() +
                                       "," +
