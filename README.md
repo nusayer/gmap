@@ -17,7 +17,7 @@
 #        Demo
 
 <p align="center">
- <img src = https://github.com/nusayer/gmap/blob/master/20200910_230654%5B1%5D.gif">
+<img src = "https://github.com/nusayer/gmap/blob/master/20200910_230654%5B1%5D.gif">
 
 
 
