@@ -23,6 +23,9 @@
 
 <p align="center">
 <img src = "https://github.com/nusayer/gmap/blob/master/screenshot.PNG">
+  
+ #       Apk file
+ [This the link of the apk file](https://github.com/nusayer/gmap/blob/master/app-release.apk)
 
 
 
